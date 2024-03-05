@@ -1,0 +1,11 @@
+.game-item-image {
+  height: 180px;
+  width: 120px;
+  border-radius: 10px;
+}
+.game-card {
+  padding: 10px;
+  list-style: none;
+  width: 140px;
+  list-style: none;
+}

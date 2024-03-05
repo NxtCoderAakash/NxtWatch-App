@@ -1,0 +1,87 @@
+.home-left-section-upper-container {
+  width: 150px;
+  list-style: none;
+
+  padding: 0px;
+}
+
+.icon {
+  margin-right: 20px;
+}
+.share-container {
+  display: flex;
+}
+.share-icon-images {
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+}
+.home-left-section-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  width: 170px;
+}
+/* .subscription-section {
+  height: 200px;
+  border: none !important;
+
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+} */
+.home-subscription-logo-image {
+  width: 130px;
+  height: 30px;
+}
+/* .home-right-section-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  background-color: #f1f1f1;
+} */
+.home-video-item-ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+.search-button {
+  cursor: pointer;
+  background-color: transparent;
+  border: 1px solid lightgray;
+  height: 30px;
+  width: 50px;
+}
+.search-input {
+  outline: none;
+  cursor: pointer;
+  width: 300px;
+  border: 1px solid lightgray;
+  height: 30px;
+  background-color: white;
+}
+.subscription-section-sub-container {
+  display: flex;
+  justify-content: space-between;
+}
+.close-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.input-container {
+  margin-top: 20px;
+  display: flex;
+  height: 30px;
+}
+
+.button-get-it-now {
+  background-color: white;
+  padding: 5px;
+  border: 2px solid black;
+  font-weight: 600;
+}
+
+.right-container-below {
+  padding: 20px;
+}

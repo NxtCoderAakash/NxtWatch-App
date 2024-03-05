@@ -1,0 +1,64 @@
+.header-bg-container {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  padding: 10px;
+}
+.header-logo-image {
+  height: 30px;
+  width: 130px;
+}
+.logout-container {
+  display: flex;
+  align-items: center;
+  width: 150px;
+  justify-content: space-between;
+}
+.profile-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+}
+/* .logout-button {
+  padding: 5px;
+  cursor: pointer;
+  background-color: transparent;
+  color: #3b82f6;
+  border: 2px solid #3b82f6;
+  width: 70px;
+  border-radius: 5px;
+} */
+/* .popup-container {
+  padding: 20px;
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+} */
+.trigger-button-cancel {
+  margin-right: 10px;
+  cursor: pointer;
+  padding: 10px;
+  border: 2px solid #94a3b8;
+  color: #94a3b8;
+  font-weight: 600;
+  background-color: transparent;
+  border-radius: 5px;
+}
+.trigger-button-confirm {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+}
+.mode-button {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+.home-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

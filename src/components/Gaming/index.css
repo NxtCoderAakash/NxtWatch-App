@@ -1,0 +1,49 @@
+/* .home-container {
+  display: flex;
+  height: 100vh;
+} */
+
+.subscription-section {
+  height: 200px;
+
+  padding: 20px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+  border: 2px solid black;
+}
+.home-subscription-logo-image {
+  width: 130px;
+  height: 30px;
+}
+.home-right-section-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+.game-item-ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.gaming-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: flex-start;
+  padding-left: 70px;
+  background-color: gray;
+}
+
+.gaming-head {
+  margin-left: 20px;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+}
+.icon-button {
+  color: red !important;
+  padding: 10px;
+  border-radius: 30px;
+  background-color: black;
+  margin-right: 10px;
+}

@@ -1,0 +1,50 @@
+.home-left-section-upper-container {
+  width: 150px;
+  list-style: none;
+
+  padding: 0px;
+}
+.icon {
+  margin-right: 20px;
+}
+.share-container {
+  display: flex;
+}
+.share-icon-images {
+  height: 20px;
+  width: 20px;
+  margin-right: 5px;
+}
+/* .home-left-section-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  width: 170px;
+} */
+
+.tab-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  height: 30px;
+  color: #475569;
+  font-weight: bold;
+  font-size: 15px;
+}
+.highlighted {
+  font-weight: bold;
+  background-color: lightgray;
+}
+.icon-highlighted {
+  color: red;
+}
+/* .contact-us-section {
+  font-weight: 500;
+} */
+.social-buttons {
+  background-color: transparent;
+  border: none;
+}

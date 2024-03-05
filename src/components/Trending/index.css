@@ -1,0 +1,33 @@
+.video-item-ul {
+  flex-direction: column;
+}
+.trending-header {
+  display: flex;
+  align-items: flex-start;
+  width: 100% !important;
+  justify-content: flex-start !important;
+  padding-left: 60px;
+  background-color: gray;
+}
+.trending-head {
+  margin-left: 20px;
+}
+.icon-button {
+  color: red !important;
+  padding: 10px;
+  border-radius: 30px;
+  background-color: black;
+  margin-right: 10px;
+}
+a {
+  color: grey;
+}
+.retry-button {
+  cursor: pointer;
+  padding: 5px;
+  width: 70px;
+  background-color: #4f46e5;
+  color: #ffffff;
+  border-radius: 5px;
+  border: none;
+}

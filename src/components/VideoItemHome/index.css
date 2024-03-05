@@ -1,0 +1,25 @@
+.card-description-container {
+  display: flex;
+}
+.home-video-item-card {
+  width: 220px;
+  min-height: 250px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.home-video-image {
+  height: 120px;
+  margin-bottom: 10px;
+}
+.icon-image {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.card-para {
+  margin: 0px;
+  font-size: 12px;
+}
